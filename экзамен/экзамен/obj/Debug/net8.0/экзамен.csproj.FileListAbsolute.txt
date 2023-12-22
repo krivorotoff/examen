@@ -1,0 +1,14 @@
+C:\Users\putin\source\repos\экзамен\экзамен\bin\Debug\net8.0\экзамен.exe
+C:\Users\putin\source\repos\экзамен\экзамен\bin\Debug\net8.0\экзамен.deps.json
+C:\Users\putin\source\repos\экзамен\экзамен\bin\Debug\net8.0\экзамен.runtimeconfig.json
+C:\Users\putin\source\repos\экзамен\экзамен\bin\Debug\net8.0\экзамен.dll
+C:\Users\putin\source\repos\экзамен\экзамен\bin\Debug\net8.0\экзамен.pdb
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.AssemblyInfoInputs.cache
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.AssemblyInfo.cs
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.csproj.CoreCompileInputs.cache
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.dll
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\refint\экзамен.dll
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.pdb
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\экзамен.genruntimeconfig.cache
+C:\Users\putin\source\repos\экзамен\экзамен\obj\Debug\net8.0\ref\экзамен.dll
